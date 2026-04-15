@@ -1,0 +1,1 @@
+My article: https://dev.to/davy_baraka_c7e5f37b4e91f/understanding-ddl-and-dml-sql-concepts-akm
